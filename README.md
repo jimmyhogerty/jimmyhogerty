@@ -21,7 +21,7 @@ I am a Full Stack Developer based in San Francisco.
 
 - :seedling: Exploring Technical Content Writing.
 
-- 🔧 Currently building Luggage Planner, an advanced travel packing web app.
+- 🔧 Currently building LuggagePilot, an advanced travel packing web app.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jimmy%20hogerty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jimmyhogerty/)
 
