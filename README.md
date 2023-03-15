@@ -15,8 +15,9 @@
 <img src="https://komarev.com/ghpvc/?username=jimmyhogerty&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-I am a Full Stack Developer based in San Francisco
+### About Me :
+- :world_map: I am a Full Stack Developer based in San Francisco
+
 - :telescope: Frontend Software Engineer at HouseCanary
 
 - :seedling: Exploring Technical Content Writing
