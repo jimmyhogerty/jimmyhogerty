@@ -16,12 +16,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer based in San Francisco.
-- :telescope: Frontend Software Engineer at HouseCanary.
+I am a Full Stack Developer based in San Francisco
+- :telescope: Frontend Software Engineer at HouseCanary
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing
 
-- 🔧 Currently building LuggagePilot, an advanced travel packing web app.
+- 🔧 Currently building LuggagePilot, an advanced travel packing web app
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jimmy%20hogerty-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jimmyhogerty/)
 
