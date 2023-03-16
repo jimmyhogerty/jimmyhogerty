@@ -16,8 +16,6 @@
 </div>
 
 ### About Me :
-- :world_map: I am a Full Stack Developer based in San Francisco
-
 - :telescope: Frontend Software Engineer at HouseCanary
 
 - :seedling: Exploring Technical Content Writing
