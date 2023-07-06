@@ -16,7 +16,7 @@
 </div>
 
 ### About Me :
-- :telescope: Frontend Software Engineer at HouseCanary
+- :telescope: Software Engineer at HouseCanary
 
 - :seedling: Exploring Technical Content Writing
 
